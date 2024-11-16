@@ -1,0 +1,10 @@
+#app-michis{
+  background: pink;
+  color: #fff;
+}
+.enviar{
+  background-color: beige;
+}
+button:hover{
+ color: blueviolet;
+}
